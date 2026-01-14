@@ -1,4 +1,4 @@
-# SSU SSU rRNA Phylogenetics of Apicomplexan Parasites
+# SSU rRNA Phylogenetics of Apicomplexan Parasites
 
 phylogenetic analysis exploring how small-subunit (SSU/18S) rRNA captures evolutionary relationships among Apicomplexan parasites.
 The project combines sequence retrieval, curation, alignment, tree inference, and visualisation in a reproducible workflow.
