@@ -1,0 +1,13 @@
+group	taxon	query
+Apicomplexa	Plasmodium_falciparum	Plasmodium falciparum 18S rRNA
+Apicomplexa	Plasmodium_vivax	Plasmodium vivax 18S rRNA
+Apicomplexa	Toxoplasma_gondii	Toxoplasma gondii 18S rRNA
+Apicomplexa	Cryptosporidium_parvum	Cryptosporidium parvum 18S rRNA
+Apicomplexa	Babesia_bovis	Babesia bovis 18S rRNA
+Apicomplexa	Cystoisopora_belli	Cystoisopora belli 18S rRNA
+Outgroup	Saccharomyces_cerevisiae	Saccharomyces cerevisiae 18S rRNA
+Outgroup	Homo_sapiens	Homo sapiens 18S rRNA
+Outgroup	Arabidopsis_thaliana	Arabidopsis thaliana 18S rRNA
+Outgroup	Chlamydomonas_reinhardtii	Chlamydomonas reinhardtii 18S rRNA
+Outgroup	Tetrahymena_thermophila	Tetrahymena thermophila 18S rRNA
+Outgroup	Phytophthora_infestans	Phytophthora infestans 18S rRNA
