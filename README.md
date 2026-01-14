@@ -28,7 +28,6 @@ Apicomplexans (Plasmodium, Toxoplasma, Babesia, Cryptosporidium) provide an inte
 4. Infer phylogeny with FastTree
 
 5. Visualise and root trees using multiple eukaryotic outgroups
-
 The analysis is organised using Snakemake to ensure reproducibility.
 ---
 
