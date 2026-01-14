@@ -33,11 +33,12 @@ Apicomplexans (Plasmodium, Toxoplasma, Babesia, Cryptosporidium) provide an inte
 The analysis is organised using Snakemake to ensure reproducibility.
 
 ## Structure 
+```bash
 scripts/   # analysis scripts
 data/      # raw and curated sequences
 results/   # alignments, trees, figures
 Snakefile  # workflow definition
-
+```
 ## How to run
 
 ```bash
