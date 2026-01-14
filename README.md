@@ -58,9 +58,16 @@ Overall, the inferred topology aligns with established evolutionary relationship
 
 ---
 
+
+## Limitations and interpretation
+
+While SSU (18S) rRNA provides a conserved and widely used marker for eukaryotic phylogenetics, its strong structural and functional constraints limit the amount of independent evolutionary signal it can retain, particularly over deep evolutionary timescales. In parasitic lineages such as Apicomplexa, lineage-specific rate heterogeneity and compositional bias further increase susceptibility to phylogenetic artefacts, including long-branch attraction.
+
+Accordingly, the inferred trees are best interpreted as capturing broad evolutionary relationships rather than providing definitive resolution of deep branching order. These results highlight both the utility and the limitations of SSU rRNA, reinforcing the importance of careful outgroup selection, sequence curation, and complementary multi-gene or structure-informed approaches for studying ancient ribosomal systems.
+---
 ## Notes
 
-This repository focuses on methodological clarity and biological interpretation, rather than exhaustive taxon sampling. The workflow is general and can be applied to other organismal groups or molecular markers.
+This repository focuses on methodological clarity and biological interpretation within a defined project scope, rather than on exhaustive taxon sampling or explicit constraint-based hypothesis testing. The workflow is modular and transferable, and can be extended to incorporate additional taxa, markers, or more complex evolutionary models.
 
 ---
 
