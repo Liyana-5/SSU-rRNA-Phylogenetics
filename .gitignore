@@ -1,0 +1,24 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+
+# --- Environments ---
+.venv/
+venv/
+env/
+
+# --- Snakemake ---
+.snakemake/
+
+# --- Logs / temp ---
+*.log
+*.tmp
+*~
+*.swp
+*.docx
+# --- Data ---
+data/raw/
+
+# --- Results ---
+results/alignments/
+
