@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# SSU SSU rRNA Phylogenetics of Apicomplexan Parasites
-=======
-# SSU rRNA Phylogenetics of Apicomplexan Parasites
->>>>>>> 09265b0fc0650c42a694984e687605d3523a8d22
 
+# SSU SSU rRNA Phylogenetics of Apicomplexan Parasites
 phylogenetic analysis exploring how small-subunit (SSU/18S) rRNA captures evolutionary relationships among Apicomplexan parasites.
 The project combines sequence retrieval, curation, alignment, tree inference, and visualisation in a reproducible workflow.
 
@@ -33,27 +29,18 @@ Apicomplexans (Plasmodium, Toxoplasma, Babesia, Cryptosporidium) provide an inte
 
 5. Visualise and root trees using multiple eukaryotic outgroups
 
-<<<<<<< HEAD
-The analysis is organised using Snakemake to ensure reproducibility.
----
 
-## Structure 
-=======
----
 The analysis is organised using Snakemake to ensure reproducibility.
+---
 
 ## Structure 
 ```bash
->>>>>>> 09265b0fc0650c42a694984e687605d3523a8d22
 scripts/   # analysis scripts
 data/      # raw and curated sequences
 results/   # alignments, trees, figures
 Snakefile  # workflow definition
-<<<<<<< HEAD
-
-=======
 ```
->>>>>>> 09265b0fc0650c42a694984e687605d3523a8d22
+
 ## How to run
 
 ```bash
@@ -72,25 +59,20 @@ Recommended to run on a Linux filesystem in windows
 Overall, the inferred topology aligns with established evolutionary relationships, illustrating both the strengths and limitations of SSU rRNA for phylogenetic inference.
 
 ---
-
-<<<<<<< HEAD
-## Notes
-
-This repository focuses on methodological clarity and biological interpretation, rather than exhaustive taxon sampling. The workflow is general and can be applied to other organismal groups or molecular markers.
-=======
-
 ## Limitations and interpretation
 
 While SSU (18S) rRNA provides a conserved and widely used marker for eukaryotic phylogenetics, its strong structural and functional constraints limit the amount of independent evolutionary signal it can retain, particularly over deep evolutionary timescales. In parasitic lineages such as Apicomplexa, lineage-specific rate heterogeneity and compositional bias further increase susceptibility to phylogenetic artefacts, including long-branch attraction.
 
 Accordingly, the inferred trees are best interpreted as capturing broad evolutionary relationships rather than providing definitive resolution of deep branching order. These results highlight both the utility and the limitations of SSU rRNA, reinforcing the importance of careful outgroup selection, sequence curation, and complementary multi-gene or structure-informed approaches for studying ancient ribosomal systems.
+
 ---
 ## Notes
 
 This repository focuses on methodological clarity and biological interpretation within a defined project scope, rather than on exhaustive taxon sampling or explicit constraint-based hypothesis testing. The workflow is modular and transferable, and can be extended to incorporate additional taxa, markers, or more complex evolutionary models.
->>>>>>> 09265b0fc0650c42a694984e687605d3523a8d22
 
 ---
+
+Author : Liyana Saleem
 
 Author: Liyana Saleem
 
