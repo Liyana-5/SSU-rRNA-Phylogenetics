@@ -18,6 +18,7 @@ env/
 *.docx
 # --- Data ---
 data/curated/*.fasta
+data/raw/*.fasta
 
 # --- Results ---
 results/alignments/
