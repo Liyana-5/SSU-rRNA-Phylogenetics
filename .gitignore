@@ -17,7 +17,7 @@ env/
 *.swp
 *.docx
 # --- Data ---
-data/raw/
+data/curated/*.fasta
 
 # --- Results ---
 results/alignments/

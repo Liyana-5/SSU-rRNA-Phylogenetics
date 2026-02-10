@@ -1,4 +1,3 @@
-
 """
 Plot a phylogenetic tree from a Newick file and save as an image.
 
